@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MIGU郭富城影院" tvg-name="MIGU郭富城影院" tvg-country="Asian" tvg-language="English" tvg-logo="http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 tvg-id="MIGU郭富城影院" tvg-name="MIGU郭富城影院" tvg-country="Asian" tvg-language="English" tvg-logo="https://i.postimg.cc/v833Pq98/1200px-Fox-Action-Movies-logo-svg.png" group-title="Asian",MIGU郭富城影院
+http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
 
 #EXTINF:-1 tvg-id="foxcrime" tvg-name="FOX Crime" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/52Fg2frj/1280px-Fox-Crime-2017-svg.png" group-title="Movies",FOX Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
