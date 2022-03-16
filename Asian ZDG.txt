@@ -1,43 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 ,翡翠台
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
-
-#EXTINF:-1 ,J2
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
-
-#EXTINF:-1 ,明珠台
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
-
-#EXTINF:-1 ,無綫新聞台
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
-
-#EXTINF:-1 ,無綫新聞台
-http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
-
-#EXTINF:-1 ,無綫財經資訊台
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=5
-
-#EXTINF:-1 ,ViuTV
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=6
-
-#EXTINF:-1 ,ViuTV6
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=7
-
-#EXTINF:-1 ,RTHK31
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=8
-
-#EXTINF:-1 ,RTHK32
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=9
-
-#EXTINF:-1 ,有線新聞台
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=10
-
-#EXTINF:-1 ,有線18台
-http://iptv5.phoves.com.cn/api/wantv.php?id=10
-
-#EXTINF:-1 ,有線18
-http://v3948069e.live.126.net/live/5b724e8d000889c91118581e3f87708b/TWggboxTV/index.flv
-
-#EXTINF:-1 ,Now新聞台
-http://iptv5.phoves.com.cn/api/wantv.php?id=6
+#EXTINF:-1,Suluk® → ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
